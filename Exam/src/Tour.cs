@@ -27,7 +27,7 @@ namespace Exam.src
 
         public override string ToString()
         {
-            return base.ToString();
+            return "Destination: " + destination + " duration (in hours): " + durationInHours + " price: " + price;
         }
     }
 }
