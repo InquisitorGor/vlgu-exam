@@ -1,0 +1,4 @@
+Destination: C duration (in hours): 15 price: 200
+Destination: B duration (in hours): 10 price: 1000
+Destination: A duration (in hours): 10 price: 500
+Destination: D duration (in hours): 5 price: 2000
