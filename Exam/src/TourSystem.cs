@@ -5,14 +5,15 @@ namespace Exam
 {
     class TourSystem
     {
+        private Tour[] tours;
+        private int size;
         static void Main(string[] args)
         {
-            Tour tour = new Tour();
-           
-
-
-
             Console.WriteLine("Hello World!");
+            Tour tour = new Tour();
+            
+
+            
         }
     }
 }

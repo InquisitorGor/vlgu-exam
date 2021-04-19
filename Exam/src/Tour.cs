@@ -17,6 +17,10 @@ namespace Exam.src
             this.price = price;
         }
 
+        public Tour()
+        {
+        }
+
         public string Destination { get => destination; set => destination = value; }
         public int DurationInHours { get => durationInHours; set => durationInHours = value; }
         public decimal Price { get => price; set => price = value; }
